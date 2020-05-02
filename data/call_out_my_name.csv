@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Call Out My Name,0.461,0.593,1,-4.954,1,0.0356,0.17,0,0.307,0.175,134.17,audio_features,09mEdoA6zrmBPgTEN5qXmN,spotify:track:09mEdoA6zrmBPgTEN5qXmN,https://api.spotify.com/v1/tracks/09mEdoA6zrmBPgTEN5qXmN,https://api.spotify.com/v1/audio-analysis/09mEdoA6zrmBPgTEN5qXmN,228373,3

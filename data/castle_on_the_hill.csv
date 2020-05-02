@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Castle on the Hill,0.461,0.834,2,-4.868,1,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,audio_features,6PCUP3dWmTjcTtXY02oFdT,spotify:track:6PCUP3dWmTjcTtXY02oFdT,https://api.spotify.com/v1/tracks/6PCUP3dWmTjcTtXY02oFdT,https://api.spotify.com/v1/audio-analysis/6PCUP3dWmTjcTtXY02oFdT,261154,4

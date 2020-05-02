@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+The Hills,0.585,0.564,0,-7.063,0,0.0515,0.0671,0,0.135,0.137,113.003,audio_features,7fBv7CLKzipRk6EC6TWHOB,spotify:track:7fBv7CLKzipRk6EC6TWHOB,https://api.spotify.com/v1/tracks/7fBv7CLKzipRk6EC6TWHOB,https://api.spotify.com/v1/audio-analysis/7fBv7CLKzipRk6EC6TWHOB,242253,4

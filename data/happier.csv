@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Happier,0.522,0.385,0,-7.355,1,0.0288,0.536,0,0.135,0.236,89.792,audio_features,2RttW7RAu5nOAfq6YFvApB,spotify:track:2RttW7RAu5nOAfq6YFvApB,https://api.spotify.com/v1/tracks/2RttW7RAu5nOAfq6YFvApB,https://api.spotify.com/v1/audio-analysis/2RttW7RAu5nOAfq6YFvApB,207520,4

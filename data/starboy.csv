@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Starboy,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,audio_features,7MXVkk9YMctZqd1Srtv4MB,spotify:track:7MXVkk9YMctZqd1Srtv4MB,https://api.spotify.com/v1/tracks/7MXVkk9YMctZqd1Srtv4MB,https://api.spotify.com/v1/audio-analysis/7MXVkk9YMctZqd1Srtv4MB,230453,4

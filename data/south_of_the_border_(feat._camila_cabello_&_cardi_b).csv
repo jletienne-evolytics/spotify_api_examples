@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+South of the Border (feat. Camila Cabello & Cardi B),0.857,0.621,9,-6.376,0,0.0824,0.148,0,0.0865,0.668,97.986,audio_features,4vUmTMuQqjdnvlZmAH61Qk,spotify:track:4vUmTMuQqjdnvlZmAH61Qk,https://api.spotify.com/v1/tracks/4vUmTMuQqjdnvlZmAH61Qk,https://api.spotify.com/v1/audio-analysis/4vUmTMuQqjdnvlZmAH61Qk,204467,4

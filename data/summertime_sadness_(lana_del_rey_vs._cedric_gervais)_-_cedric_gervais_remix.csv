@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,0.572,0.81,1,-5.791,0,0.0558,0.0157,6.53e-06,0.13,0.11,126.052,audio_features,6PUIzlqotEmPuBfjbwYWOB,spotify:track:6PUIzlqotEmPuBfjbwYWOB,https://api.spotify.com/v1/tracks/6PUIzlqotEmPuBfjbwYWOB,https://api.spotify.com/v1/audio-analysis/6PUIzlqotEmPuBfjbwYWOB,214912,4

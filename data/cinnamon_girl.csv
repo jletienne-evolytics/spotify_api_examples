@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Cinnamon Girl,0.292,0.334,6,-10.679,0,0.0378,0.839,0.345,0.151,0.148,67.836,audio_features,2mdEsXPu8ZmkHRRtAdC09e,spotify:track:2mdEsXPu8ZmkHRRtAdC09e,https://api.spotify.com/v1/tracks/2mdEsXPu8ZmkHRRtAdC09e,https://api.spotify.com/v1/audio-analysis/2mdEsXPu8ZmkHRRtAdC09e,300683,4

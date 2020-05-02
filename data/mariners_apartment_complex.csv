@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Mariners Apartment Complex,0.545,0.26,9,-12.668,1,0.0289,0.788,0.00099,0.105,0.185,75.962,audio_features,6OG05bPAwUuV3OMvy2Vy1P,spotify:track:6OG05bPAwUuV3OMvy2Vy1P,https://api.spotify.com/v1/tracks/6OG05bPAwUuV3OMvy2Vy1P,https://api.spotify.com/v1/audio-analysis/6OG05bPAwUuV3OMvy2Vy1P,247150,4

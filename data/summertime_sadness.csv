@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Summertime Sadness,0.566,0.647,1,-6.815,0,0.0335,0.0477,0,0.121,0.22,111.96,audio_features,1Ist6PR2BZR3n2z2Y5R6S1,spotify:track:1Ist6PR2BZR3n2z2Y5R6S1,https://api.spotify.com/v1/tracks/1Ist6PR2BZR3n2z2Y5R6S1,https://api.spotify.com/v1/audio-analysis/1Ist6PR2BZR3n2z2Y5R6S1,264773,4

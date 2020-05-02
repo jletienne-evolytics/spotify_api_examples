@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Photograph,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,audio_features,6fxVffaTuwjgEk5h9QyRjy,spotify:track:6fxVffaTuwjgEk5h9QyRjy,https://api.spotify.com/v1/tracks/6fxVffaTuwjgEk5h9QyRjy,https://api.spotify.com/v1/audio-analysis/6fxVffaTuwjgEk5h9QyRjy,258987,4

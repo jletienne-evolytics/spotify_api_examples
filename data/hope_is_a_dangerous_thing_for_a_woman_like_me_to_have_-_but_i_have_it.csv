@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+hope is a dangerous thing for a woman like me to have - but I have it,0.461,0.102,7,-13.05,1,0.0897,0.967,2.1e-06,0.164,0.259,71.835,audio_features,0fB77VOZ2FkQeKLv1DuEwp,spotify:track:0fB77VOZ2FkQeKLv1DuEwp,https://api.spotify.com/v1/tracks/0fB77VOZ2FkQeKLv1DuEwp,https://api.spotify.com/v1/audio-analysis/0fB77VOZ2FkQeKLv1DuEwp,324499,4

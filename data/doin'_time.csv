@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Doin' Time,0.649,0.538,7,-11.196,0,0.0519,0.372,0.00632,0.0951,0.496,144.979,audio_features,0Oqc0kKFsQ6MhFOLBNZIGX,spotify:track:0Oqc0kKFsQ6MhFOLBNZIGX,https://api.spotify.com/v1/tracks/0Oqc0kKFsQ6MhFOLBNZIGX,https://api.spotify.com/v1/audio-analysis/0Oqc0kKFsQ6MhFOLBNZIGX,202193,4

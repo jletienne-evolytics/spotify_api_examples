@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Hardest To Love,0.467,0.608,10,-7.847,1,0.0707,0.0909,8.83e-05,0.125,0.108,80.957,audio_features,6kWxIqQDsKFYCJGbU4AjCX,spotify:track:6kWxIqQDsKFYCJGbU4AjCX,https://api.spotify.com/v1/tracks/6kWxIqQDsKFYCJGbU4AjCX,https://api.spotify.com/v1/audio-analysis/6kWxIqQDsKFYCJGbU4AjCX,211400,4

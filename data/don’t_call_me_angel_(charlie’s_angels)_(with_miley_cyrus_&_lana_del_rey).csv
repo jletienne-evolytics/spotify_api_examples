@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),0.644,0.755,1,-5.325,1,0.0448,0.00237,7.64e-06,0.0859,0.334,102.861,audio_features,6zegtH6XXd2PDPLvy1Y0n2,spotify:track:6zegtH6XXd2PDPLvy1Y0n2,https://api.spotify.com/v1/tracks/6zegtH6XXd2PDPLvy1Y0n2,https://api.spotify.com/v1/audio-analysis/6zegtH6XXd2PDPLvy1Y0n2,190067,4

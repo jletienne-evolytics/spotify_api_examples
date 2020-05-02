@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Norman fucking Rockwell,0.218,0.215,5,-12.49,1,0.0368,0.967,0.0847,0.0948,0.138,76.74,audio_features,3RIgHHpnFKj5Rni1shokDj,spotify:track:3RIgHHpnFKj5Rni1shokDj,https://api.spotify.com/v1/tracks/3RIgHHpnFKj5Rni1shokDj,https://api.spotify.com/v1/audio-analysis/3RIgHHpnFKj5Rni1shokDj,248934,1

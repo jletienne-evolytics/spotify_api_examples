@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+I Don't Care (with Justin Bieber),0.798,0.675,6,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,audio_features,0hVXuCcriWRGvwMV1r5Yn9,spotify:track:0hVXuCcriWRGvwMV1r5Yn9,https://api.spotify.com/v1/tracks/0hVXuCcriWRGvwMV1r5Yn9,https://api.spotify.com/v1/audio-analysis/0hVXuCcriWRGvwMV1r5Yn9,219947,4

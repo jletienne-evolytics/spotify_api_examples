@@ -1,0 +1,2 @@
+name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Galway Girl,0.624,0.876,9,-3.374,1,0.1,0.0735,0,0.327,0.781,99.943,audio_features,0afhq8XCExXpqazXczTSve,spotify:track:0afhq8XCExXpqazXczTSve,https://api.spotify.com/v1/tracks/0afhq8XCExXpqazXczTSve,https://api.spotify.com/v1/audio-analysis/0afhq8XCExXpqazXczTSve,170827,4
